@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14f90d16-c017-4c2e-8458-f39e9ee56c56" name="Changes" comment="qoshildi">
+      <change afterPath="$PROJECT_DIR$/img/brand1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/email-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ftr-icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ftr-icon-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ftr-icon-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ftr-icon-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery-img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery-img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery-img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery-img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery-img5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery-img6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery-img7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/google-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-website.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/page3-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/page5-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/praduct-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product-img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product-img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sign-up-icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sign-up-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sldr-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sldr-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sldr-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/subscribe-img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/subscribe-img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regstr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regstr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ogabek-Tohirov&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1711797354" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1711797353" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9b07f8c6-7a5d-4992-b9df-a8f2d32e2772" />
+        <option name="url" value="https://github.com/Ogabek-Tohirov/Online-Shopping-Website.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2boPbIpfbtqAKxWd12ceP0wUMuD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14f90d16-c017-4c2e-8458-f39e9ee56c56" name="Changes" comment="" />
+      <created>1706878530522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706878530522</updated>
+      <workItem from="1706878532224" duration="17446000" />
+      <workItem from="1706957484936" duration="3103000" />
+      <workItem from="1706989550746" duration="11199000" />
+      <workItem from="1707068839817" duration="13887000" />
+      <workItem from="1707135378614" duration="6973000" />
+      <workItem from="1707214768982" duration="5082000" />
+      <workItem from="1707220753741" duration="23461000" />
+      <workItem from="1707256309186" duration="1268000" />
+      <workItem from="1707320766969" duration="3312000" />
+      <workItem from="1707324190657" duration="13000" />
+      <workItem from="1711796589799" duration="57000" />
+      <workItem from="1711796845051" duration="538000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tayyor">
+      <option name="closed" value="true" />
+      <created>1707256567707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707256567708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tayyor">
+      <option name="closed" value="true" />
+      <created>1707256585538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707256585538</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tayyor">
+      <option name="closed" value="true" />
+      <created>1707256608585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707256608585</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tayyor">
+      <option name="closed" value="true" />
+      <created>1707256931830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707256931830</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tayyor">
+      <option name="closed" value="true" />
+      <created>1711796622502</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711796622502</updated>
+    </task>
+    <task id="LOCAL-00006" summary="qoshildi">
+      <option name="closed" value="true" />
+      <created>1711797377950</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711797377950</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tayyor" />
+    <MESSAGE value="qoshildi" />
+    <option name="LAST_COMMIT_MESSAGE" value="qoshildi" />
+  </component>
+</project>
