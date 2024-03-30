@@ -1,0 +1,699 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*========== NAVBAR ==========*/
+
+.container-fluid .navbar-brand {
+    font-size: 52px;
+    font-family: Volkhov;
+}
+
+.navbar-nav .nav-link {
+    font-size: 16px;
+    font-family: Poppins;
+}
+
+.navbar-nav .sign_up {
+    font-size: 16px;
+    font-family: Poppins;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0px;
+    text-decoration: none;
+}
+
+.sign_up:hover {
+    animation: bounce 1s;
+}
+
+.sign_up-reg {
+    text-decoration: none;
+}
+
+/*========== BANNER ==========*/
+
+#banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.img1 {
+    background-color: #E0E0E0;
+    border-radius: 10px;
+    width: 392px;
+    height: 756px;
+    padding-top: 188px;
+}
+
+.img2 {
+    background-color: #E0E0E0;
+    width: 399px;
+    height: 145px;
+    border-radius: 10px;
+}
+
+.img3 {
+    width: 426px;
+    height: 150px;
+}
+
+.img4 {
+    background-color: #E0E0E0;
+    border-radius: 10px;
+    width: 392px;
+    height: 756px;
+    padding-top: 175px;
+}
+
+.tx1 {
+    font-family: Poppins;
+    font-size: 81px;
+    text-align: center;
+    color: #484848;
+}
+
+.tx2 {
+    font-family: Poppins;
+    font-size: 137px;
+    text-align: center;
+    color: #fff;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.tx3 {
+    font-family: Poppins;
+    font-size: 20px;
+    text-align: center;
+    color: #484848;
+}
+
+.tx4 {
+    text-align: center;
+}
+
+.btn {
+    border: 0px;
+}
+
+.btn:hover {
+        animation: bounce 1s;
+}
+
+.icn {
+    font-size: 30px;
+    display: flex;
+    place-content: end;
+}
+
+
+/*========== BRANDS ==========*/
+
+
+
+/*========== SLIDER ========*/
+
+#slider {
+    /*background-color: #E0E0E0;*/
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.column-1 {
+    padding-top: 50px;
+}
+
+.column-2 {
+    padding-top: 50px;
+}
+
+.sldr-tx1 {
+    font-size: 46px;
+    font-family: Volkhov;
+    color: #484848;
+}
+
+.sldr-tx2 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #8A8A8A;
+}
+
+.sldr-btn {
+    background-color: black;
+    color: #fff;
+    font-family: Poppins;
+    border: 0px;
+    border-radius: 10px;
+    width: 140px;
+    height: 46px;
+}
+
+.sldr-btn:hover {
+    animation: bounce 1s;
+}
+
+#countdown {
+    text-align: center;
+    padding-top: 70px;
+}
+
+#timer {
+    display: flex;
+    justify-content: center;
+}
+
+#timer div {
+    margin: 0 10px;
+}
+
+#timer span {
+    display: block;
+    font-size: 24px;
+}
+
+#countdown {
+    margin-top: 25px;
+}
+
+#days {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#hours {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#minutes {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#seconds {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.tmr-tx {
+    font-size: 28px;
+    font-family: Poppins;
+    color: #484848;
+}
+
+.tmr-tx2 {
+    font-size: 24px;
+    font-family: Poppins;
+    color: #484848;
+}
+
+
+/*========== NEW ARRIVALS ==========*/
+
+#new-arrivals {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.new-tx1 {
+    font-size: 46px;
+    font-family: Volkhov;
+    color: #484848;
+    text-align: center;
+}
+
+.new-tx2 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #8A8A8A;
+    text-align: center;
+}
+
+.fashion-btn {
+    background-color: #E0E0E0;
+    border-radius: 10px;
+    border: 0px;
+    color: #8A8A8A;
+    width: 197px;
+    height: 50px;
+}
+
+.fashion-btn:hover {
+    background-color: black;
+    color: #fff;
+}
+
+.fashion-btn-act {
+    background-color: black;
+    color: #fff;
+    border-radius: 10px;
+    border: 0px;
+    width: 197px;
+    height: 50px;
+}
+
+.product-img {
+    width: 336px;
+    height: 244px;
+}
+
+.star {
+    margin-left: 80px;
+}
+
+.pr-tx1 {
+    font-size: 20px;
+    font-family: Poppins;
+    color: #484848;
+    text-decoration: none;
+}
+
+.pr-tx2 {
+    font-size: 12px;
+    font-family: Poppins;
+    color: #8A8A8A;
+}
+
+.pr-tx3 {
+    font-size: 12px;
+    font-family: Poppins;
+    color: #484848;
+}
+
+.pr-tx4 {
+    font-size: 24px;
+    font-family: Poppins;
+    color: #484848;
+    text-decoration: none;
+}
+
+.pr-tx5 {
+    font-size: 12px;
+    font-family: Poppins;
+    color: #FF4646;
+    text-decoration: none;
+    margin-left: 110px;
+}
+
+.product {
+    padding: 10px;
+    /*box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;*/
+}
+
+.view-more-btn {
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 16px;
+    font-family: Poppins;
+    width: 207px;
+    height: 56px;
+}
+
+.view-more-btn:hover {
+    animation: bounce 1s;
+}
+
+.product-btn {
+    text-align: center;
+}
+
+
+/*========== PAGE-3 ==========*/
+
+#page-3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.page3-text {
+    background-color: #DADADA;
+    padding: 10px;
+}
+
+.page3-tx1 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #767676;
+}
+
+.page3-tx2 {
+    font-size: 46px;
+    font-family: Volkhov;
+    color: #484848;
+}
+
+.page3-tx3 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #000000;
+}
+
+.page3-tx4 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #767676;
+}
+
+.page3-tx5 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #767676;
+    text-decoration: none;
+}
+
+.page3-btn1 {
+    background-color: black;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 16px;
+    font-family: Poppins;
+    width: 53px;
+    height: 28px;
+}
+
+.page3-tx6 {
+    font-size: 24px;
+    font-family: Poppins;
+    color: #000000;
+}
+
+.page3-btn2 {
+    background-color: black;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 16px;
+    font-family: Poppins;
+    width: 207px;
+    height: 56px;
+}
+
+.page3-btn2:hover {
+    animation: bounce 1s;
+}
+
+/*========== FEAUTURES ======*/
+
+#features {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quality-section {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    margin: 0 10px;
+}
+
+.text h3{
+    font-size: 20px;
+    text-align: left;
+    font-family: Poppins;
+}
+
+.text p {
+    font-size: 14px;
+    text-align: left;
+    font-family: Poppins;
+}
+
+
+/*========== GALLERY ==========*/
+
+#gallery {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.gallery-tx {
+    text-align: center;
+}
+
+.gallery-tx1 {
+    font-size: 46px;
+    font-family: Volkhov;
+    color: #484848;
+}
+
+.gallery-tx2 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #8A8A8A;
+}
+
+.gallery-img1 {
+    width: 320px;
+    height: 308px;
+}
+
+.gallery-img2 {
+    width: 256px;
+    height: 380px;
+}
+
+
+/*========== PAGE-5 ==========*/
+
+#page-5 {
+    padding-top: 50px;
+    background-color: rgb(250, 250, 250);
+    padding-bottom: 50px;
+}
+
+.pg-5-img-tx {
+    background-color: #fff;
+}
+
+.page5-tx {
+    text-align: center;
+    padding-bottom: 150px;
+}
+
+.page5-tx1 {
+    font-size: 46px;
+    font-family: Volkhov;
+    color: #484848;
+}
+
+.page5-tx2 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #8A8A8A;
+}
+
+.page5-text {
+    padding-top: 10px;
+}
+
+.page5-tx3 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #484848;
+}
+
+.page5-tx, hr {
+    width: 230px;
+    height: 1px;
+}
+
+.page5-tx4 {
+    font-size: 32px;
+    font-family: Volkhov;
+    color: #484848;
+}
+
+.page5-tx5 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #484848;
+}
+
+/**/
+
+
+/*========== SUBSCRIBE ==========*/
+
+#subscribe {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.subscribe-tx1 {
+    font-size: 46px;
+    font-family: Volkhov;
+    color: #484848;
+    text-align: center;
+}
+
+.subscribe-tx2 {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #8A8A8A;
+    text-align: center;
+}
+
+.subscribe-inp {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;
+}
+
+.subscribe-2 {
+    text-align: center;
+}
+
+.subscribe-btn {
+    background-color: black;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 16px;
+    font-family: Poppins;
+    width: 207px;
+    height: 56px;
+}
+
+.subscribe-btn:hover {
+    animation: bounce 1s;
+}
+
+.subscribe-img1 {
+    width: 292px;
+    height: 656px;
+}
+
+.subscribe-img2 {
+    width: 292px;
+    height: 656px;
+}
+
+
+/*========== FOOTER ==========*/
+
+#footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-tx1 {
+    font-size: 42px;
+    font-family: Volkhov;
+    color: #484848;
+}
+
+.footer-tx {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #484848;
+    text-decoration: none;
+    padding-top: 20px;
+}
+
+hr {
+    width: 100%;
+}
+
+.footer-tx2 {
+    text-align: center;
+    font-size: 12px;
+    font-family: Poppins;
+    color: #484848;
+    padding-top: 25px;
+}
+
+
+
+
+/*========== HOVER ==========*/
+@keyframes bounce {
+    0%, 20%, 60%, 100% {
+        transform: translateY(0);
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-20px);
+        transform: translateY(-20px);
+    }
+
+    80% {
+        transform: translateY(-10px);
+        transform: translateY(-10px);
+    }
+}
+
+
+
+
+
+/* ========== MEDIA QUERY ========== */
+
+@media only screen and (min-width: 320px) {
+    .tx1 {
+        font-size: 50px;
+    }
+    .tx2 {
+        font-size: 85px;
+    }
+    .tx3 {
+        font-size: 25px;
+    }
+
+    .subscribe-inp {
+        width: 290px;
+        height: 36px;
+    }
+
+    .subscribe-btn{
+        margin-top: 30px;
+    }
+
+    .subscribe-img1 {
+        margin-top: 70px;
+    }
+
+    .subscribe-img2 {
+        margin-top: 70px;
+    }
+
+    .footer-tx1 {
+        text-align: center;
+    }
+
+    .footer-tx {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .tx1 {
+        font-size: 70px;
+    }
+    .tx2 {
+        font-size: 120px;
+    }
+
+    .img4 {
+        padding-top: 162px;
+    }
+
+    .subscribe-inp {
+        width: 450px;
+        height: 56px;
+    }
+
+    .subscribe-2 {
+        margin-top: 150px;
+    }
+
+    .subscribe-btn {
+        margin-top: 100px;
+    }
+}
+
